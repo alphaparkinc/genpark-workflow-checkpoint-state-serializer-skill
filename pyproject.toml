@@ -1,0 +1,11 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "genpark-workflow-checkpoint-state-serializer-skill"
+version = "1.0.0"
+description = "Workflow execution state graph snapshot serializer with delta compression and undo/redo journaling"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []
