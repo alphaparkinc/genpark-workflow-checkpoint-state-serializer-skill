@@ -1,0 +1,20 @@
+{
+  "name": "genpark-workflow-checkpoint-state-serializer-skill",
+  "version": "1.0.0",
+  "description": "Workflow execution state graph snapshot serializer with delta compression and undo/redo journaling",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "checkpoint-serializer",
+    "state-snapshot",
+    "journaling",
+    "undo-redo",
+    "fault-tolerance",
+    "python-standard-library",
+    "agent-skills",
+    "persistence",
+    "orchestration",
+    "developer-tools"
+  ]
+}
