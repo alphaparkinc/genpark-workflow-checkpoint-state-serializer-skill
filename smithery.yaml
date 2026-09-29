@@ -1,0 +1,6 @@
+name: genpark-workflow-checkpoint-state-serializer-skill
+version: 1.0.0
+description: Workflow execution state graph snapshot serializer with delta compression and undo/redo journaling
+command: python
+args:
+  - mcp_server.py
